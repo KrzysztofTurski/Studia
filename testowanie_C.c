@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include"add.h"
 
-
+//TEST
 
 //funkcja_wstawiania(char slowo[7]);
 //funkcja_sortowania(int zew,int wew,int tab[10],int temp);
